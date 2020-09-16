@@ -24,6 +24,6 @@ Pour aller boire un verre :beer: :beer:
 Mes pupilles sont toujours très dilatées depuis que je suis petite. À l'école, mes profs pensaient que j'avais un problème de drogue... :syringe:
 
 ##### TL;DR
-Mes profs me croyaient défoncée
+Mes profs me croyaient défoncée (je crois que c'est bien synthétisé)
 
 << previous (https://github.com/bryangustin/markdown-challenge/blob/master/README.md) || Celine Arnould || next (https://github.com/okaycharlottes/markdowchallenge/blob/master/README.md) >>
