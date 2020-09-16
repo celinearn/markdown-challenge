@@ -26,4 +26,4 @@ Mes pupilles sont toujours très dilatées depuis que je suis petite. À l'écol
 ##### TL;DR
 Mes profs me croyaient défoncée (je crois que c'est bien synthétisé)
 
-<< previous (https://github.com/bryangustin/markdown-challenge/blob/master/README.md) || Celine Arnould || next (https://github.com/okaycharlottes/markdowchallenge/blob/master/README.md) >>
+<< [previous](https://github.com/bryangustin/markdown-challenge/blob/master/README.md) || Celine Arnould || [next](https://github.com/okaycharlottes/markdowchallenge/blob/master/README.md) >>
